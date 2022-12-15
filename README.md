@@ -6,7 +6,7 @@ Download:
 cd $CMSSW_BASE/src
 cmsenv
 git init
-git pull https://github.com/GlennnLiu/LeptonSystematics.git
+git clone https://github.com/GlennnLiu/LeptonSystematics.git
 ```
 
 To update this package from the release
